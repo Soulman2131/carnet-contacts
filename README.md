@@ -1,5 +1,16 @@
 # React + Vite
 
+## Creation d'un carnet de contact avec REACT RTK QUERY
+Je développe l'interface d'une collection de carnet d'adresse. On peut voir, modifier ou supprimer un contact. 
+
+### Outils techniques
+REACT REDUX TOOLKIT et plus particuliérement REACT RTK QUERY
+###
+![carnet_contacts](https://github.com/Soulman2131/carnet-contacts/assets/109850920/1010c034-e4e0-4e55-a4f5-9b8a1d9d9308)
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
