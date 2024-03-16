@@ -1,7 +1,7 @@
 # React + Vite
 
 ## Creation d'un carnet de contact avec REACT RTK QUERY
-Je développe l'interface d'une collection de carnet d'adresse. On peut voir, modifier ou supprimer un contact. 
+Je développe l'interface d'un carnet de contact. On peut voir, modifier ou supprimer un contact dans le carnet d'adresse. 
 
 ### Outils techniques
 REACT REDUX TOOLKIT et plus particuliérement REACT RTK QUERY
