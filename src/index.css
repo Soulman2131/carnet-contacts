@@ -1,0 +1,8 @@
+/* HOME CSS */
+
+.styled-table thead tr th {
+  background-color: #009879 !important;
+  color: #ffffff;
+  text-align: left;
+  border-top: none;
+}

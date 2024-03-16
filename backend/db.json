@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Aaliyah GARNIER",
+      "email": "aaliyah@gmail.com",
+      "contact": "12345678910"
+    },
+    {
+      "id": "51",
+      "name": "Ciara SEYN",
+      "email": "ciara@gmail.com",
+      "contact": "1065365365"
+    },
+    {
+      "id": "4992",
+      "name": "Jules DRA",
+      "email": "jules@gmail.com",
+      "contact": "12309"
+    }
+  ]
+}
